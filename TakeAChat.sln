@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeAChat.Server", "TakeAChat.Server\TakeAChat.Server.csproj", "{88B2AF99-339E-45EC-B01C-10F155330AED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeAChat.Client", "TakeAChat.Client\TakeAChat.Client.csproj", "{66F5D20F-4C8A-480A-9177-46AD97F08B13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88B2AF99-339E-45EC-B01C-10F155330AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B2AF99-339E-45EC-B01C-10F155330AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B2AF99-339E-45EC-B01C-10F155330AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B2AF99-339E-45EC-B01C-10F155330AED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66F5D20F-4C8A-480A-9177-46AD97F08B13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66F5D20F-4C8A-480A-9177-46AD97F08B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66F5D20F-4C8A-480A-9177-46AD97F08B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66F5D20F-4C8A-480A-9177-46AD97F08B13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1465D9E2-9AD3-43A0-B96A-3BAE1E8FDF75}
+	EndGlobalSection
+EndGlobal
